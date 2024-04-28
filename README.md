@@ -1,5 +1,5 @@
 <div align=center>
-  <img alt="project logo" src="..." height="90"/>
+  <img alt="project logo" src="Logo-repository.png" height="90"/>
   <h1>
     Xiaomi Camera Port
   </h1>

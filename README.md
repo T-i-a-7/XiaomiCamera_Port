@@ -29,7 +29,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt quis eros
 ---
 
 ### To-Do list
-- [ ] Logo iniziale
+- [x] Logo iniziale
 - [x] Sistemare il link di attribuzione per il logo
 - [ ] Introduzione
 - [ ] Preparazione dell'ambiente di sviluppo android (riferimenti alle pagine ufficiali)

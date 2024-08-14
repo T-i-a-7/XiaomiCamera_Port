@@ -8,7 +8,7 @@
 </br>
 
 Description of the project.  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt quis eros a facilisis. Ut vel lacinia sem. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum ut orci vitae quam gravida laoreet eu vel massa. Vivamus pharetra lacus ac erat tristique placerat. Nulla tincidunt felis ipsum, quis convallis ipsum mattis at. Nam aliquet odio orci, nec luctus lorem egestas in.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt quis eros a facilisis. Ut vel lacinia sem. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum ut orci vitae quam gravida laoreet eu vel massa. Vivamus pharetra lacus ac erat tristique placerat. Nulla tincidunt felis ipsum, quis convallis ipsum mattis at. Nam aliquet odio orci, nec luctus lorem egestas.
 
 ## Read carefully
 
